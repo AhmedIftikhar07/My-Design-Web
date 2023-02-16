@@ -1,0 +1,93 @@
+@media (max-width: 768px){
+    .menu-links{
+        display: none;
+    }
+    #logo{
+        padding: 2rem 0;
+        width: 100%;
+    }
+    .container{
+        max-width: 92%;
+        width: 92%;
+    }
+    #second h3{
+        font-size: 18px;
+    }
+    #second img{
+        padding-right: 15%;
+    }
+    #third-sec .fa{
+        margin-top: 2rem;
+    }
+    #forth-sec .for-order{
+        order: 2;
+    }
+    #forth-sec p{
+        margin-bottom: 4rem;
+    }
+    #forth-sec img{
+        margin-top: 2rem;
+    }
+    .fifth-content-left-1{
+       padding-left: 0;
+       padding-right: 0;
+    }
+    .fifth-content-left-2{
+       padding-left: 0;
+       padding-right: 0;
+    }
+    #sixth-sec img{
+        padding-bottom: 1rem;
+    }
+    #sixth-sec h1{
+        padding-left: 0.5rem;
+    }
+    #sixth-sec p{
+        padding-left: 0.5rem;
+    }
+    #sixth-sec .icons{
+        padding-left:1rem ;
+    }
+    #seven-sec h2{
+        padding-top: 1rem;
+    }
+
+    .full-name-1{
+        width: 80%;
+    
+    }
+    
+    .full-name-2{
+        width: 80%;
+        
+    }
+    
+    .full-name-3{
+        width: 80%;
+    
+    }
+
+    
+    .full-name-4{
+        width: 80%;
+    }
+   
+  .full-name-5{
+        width: 80%;  
+    }
+    
+    #last-sec h4{
+        margin-top: 2rem;
+    }
+    #last-sec{
+        padding-top: 1rem;
+    }
+    #last-sec2{
+        text-align: center;
+    }
+    #last-sec2 .fa-brands{
+        margin: 0;
+        letter-spacing: 10px;
+        font-size: 22px;
+    }
+}
